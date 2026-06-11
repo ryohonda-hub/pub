@@ -1,0 +1,17 @@
+﻿position,ref,alt,DP,AF,DPref,DPalt,type,impact,gene,locustag,coding,protein
+44,C,T,1,0.667,0,1,upstream_gene_variant,MODIFIER,ORF1ab,GU280_gp01,c.-222C>T,
+832,C,T,1,0.667,0,1,synonymous_variant,LOW,ORF1ab,GU280_gp01,c.567C>T,p.Asn189Asn
+2790,C,T,2,0.667,0,2,missense_variant,MODERATE,ORF1ab,GU280_gp01,c.2525C>T,p.Thr842Ile
+3037,C,T,1,0.667,0,1,synonymous_variant,LOW,ORF1ab,GU280_gp01,c.2772C>T,p.Phe924Phe
+15451,G,A,1,0.667,0,1,missense_variant,MODERATE,ORF1ab,GU280_gp01,c.15187G>A,p.Gly5063Ser
+20055,A,G,1,0.667,0,1,synonymous_variant,LOW,ORF1ab,GU280_gp01,c.19791A>G,p.Glu6597Glu
+26709,G,A,1,0.667,0,1,missense_variant,MODERATE,M,GU280_gp05,c.187G>A,p.Ala63Thr
+26858,C,T,1,0.667,0,1,synonymous_variant,LOW,M,GU280_gp05,c.336C>T,p.Phe112Phe
+27507,A,C,1,0.667,0,1,synonymous_variant,LOW,ORF7a,GU280_gp07,c.114A>C,p.Gly38Gly
+27915,G,T,2,0.667,0,2,stop_gained,HIGH,ORF8,GU280_gp09,c.22G>T,p.Gly8*
+28447,A,G,3,0.5,1,2,synonymous_variant,LOW,N,GU280_gp10,c.174A>G,p.Gln58Gln
+28492,A,G,3,0.5,1,2,synonymous_variant,LOW,N,GU280_gp10,c.219A>G,p.Pro73Pro
+29300,G,C,1,0.667,0,1,missense_variant,MODERATE,N,GU280_gp10,c.1027G>C,p.Asp343His
+29309,T,C,1,0.667,0,1,missense_variant,MODERATE,N,GU280_gp10,c.1036T>C,p.Phe346Leu
+29313,A,G,1,0.667,0,1,missense_variant,MODERATE,N,GU280_gp10,c.1040A>G,p.Lys347Arg
+29321,G,C,1,0.667,0,1,missense_variant,MODERATE,N,GU280_gp10,c.1048G>C,p.Val350Leu
