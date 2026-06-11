@@ -1,3 +1,13 @@
+###########################################################################
+# Intellectual Property Notice
+###########################################################################
+# This IMR algorithm is the subject of a patent application.
+#
+# Patent pending: JP Patent Application No. 2025-083331
+#
+# The source code is provided for academic and research purposes only. 
+# No license is granted, either expressly or implicitly, to practice any patented invention.
+#
 # ==========================================================================
 #   IMR - estimating variant proportion / 2026-02-01 動作確認済 v.2.6
 # ==========================================================================
