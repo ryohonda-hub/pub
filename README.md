@@ -2,7 +2,7 @@
 
 This repository contains the source code used in my published and ongoing work.
 
-### Note on Antimicrobial Resistance (AMR) Analyses
+### Antimicrobial Resistance (AMR) Analyses
 
 Code related to antimicrobial resistance (AMR) analyses are not included in this repository. For AMR-related workflows and scripts, please refer to the [END-AMR-Asia](https://github.com/ryohonda-hub/END-AMR-Asia) repository. 
 
