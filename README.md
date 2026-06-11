@@ -7,8 +7,12 @@ Code related to antimicrobial resistance (AMR) analyses are not included in this
 ## Citations
 When publishing work that uses these scripts, please cite the corresponding reference:
 
-* IMR: (under review)
+* IMR: Ryo Honda, Hiroya Kamoshida, Daisuke Motooka, Akihiko Hata, Rongxuan Wang, Takashi Tamura, Satoshi Ezaki, Tomoya Baba, Masanori Arita (2026) Hybridization-capture sequencing combined with iterative matrix reduction for SARS-CoV-2 variant estimation in wastewater genomic surveillance. (under review)
+
 
 ### Website & Contact
-https://env.w3.kanazawa-u.ac.jp/end-amr-asia/
-Email: rhonda@staff.kanazawa-u.ac.jp (Dr. Ryo Honda)
+## Contact
+
+Dr. Ryo Honda
+
+Email: [rhonda@staff.kanazawa-u.ac.jp](mailto:rhonda@staff.kanazawa-u.ac.jp)
