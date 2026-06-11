@@ -25,7 +25,7 @@ Publication of this repository is intended to support scientific reproducibility
 
 ## Citation
 
-* Ryo Honda, Hiroya Kamoshida, Daisuke Motooka, Akihiko Hata, Rongxuan Wang, Takashi Tamura, Satoshi Ezaki, Tomoya Baba, Masanori Arita (2026) Hybridization-capture sequencing combined with iterative matrix reduction for SARS-CoV-2 variant estimation in wastewater genomic surveillance. 
+* Ryo Honda, Hiroya Kamoshida, Daisuke Motooka, Akihiko Hata, Rongxuan Wang, Takashi Tamura, Satoshi Ezaki, Tomoya Baba, Masanori Arita (2026) Hybridization-capture sequencing combined with iterative matrix reduction for SARS-CoV-2 variant estimation in wastewater genomic surveillance. (under review)
 
 ## Contact
 
