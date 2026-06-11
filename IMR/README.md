@@ -18,6 +18,7 @@ IMR uses lineage constellation definitions provided by [Alcov](https://github.co
 The IMR algorithm is the subject of a patent application.
 
 Patent pending:
+
 Japanese Patent Application No. 2025-083331
 
 Publication of this repository is intended to support scientific reproducibility and does not constitute a grant of any patent rights.
